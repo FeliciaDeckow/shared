@@ -10,9 +10,10 @@ TO RUN:
 - just run persistent_buffer
 
 NOTE:
-- RECEIVER (PULL) bind on:					"tcp://*:4242"
+- RECEIVER (PULL) bind on:					"tcp:// :4242"
 - SENDER (PUSH) bind on:					"tcp://*:4343"
 
 
 
 
+ 
